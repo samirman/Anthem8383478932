@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: Anthem8383478932
+  host: Anthem8383478932
+  disk_quota: 1024M
+  services:
+  - Anthem8383478932-personality_insights
